@@ -8,7 +8,7 @@ MediaSaber iOS 客户端
 下载最新版 [MSaber.ipa](https://github.com/fanxuankai/media-saber-release/releases)
 
 ### 签证
-![image](https://github.com/fanxuankai/media-saber-release/blob/main/resources/images/i4_install.png)
+![image](https://github.com/fanxuankai/media-saber-release/blob/main/resources/images/i4_sign.png)
 
 ### 安装
 ![image](https://github.com/fanxuankai/media-saber-release/blob/main/resources/images/i4_install.png)
