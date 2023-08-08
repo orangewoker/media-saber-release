@@ -4,4 +4,8 @@ MediaSaber iOS 客户端
 
 ## 爱思助手安装 IPA
 
+### 签证
+![image](https://github.com/fanxuankai/media-saber-release/blob/main/resources/images/i4_install.png)
+
+### 安装
 ![image](https://github.com/fanxuankai/media-saber-release/blob/main/resources/images/i4_install.png)
